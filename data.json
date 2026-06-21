@@ -1,0 +1,42 @@
+[
+    {
+        "employee_name": "Selma Boz",
+        "department": "Clinical Informatics",
+        "category": "AI in Healthcare",
+        "news_title": "AI Tool Helps Nurses Prioritize Patient Care",
+        "summary": "A new AI-based system helps hospital staff identify urgent patient needs more quickly by analyzing patient data and alerts.",
+        "why_it_matters": "This could help reduce response time, support nurses during busy shifts, and improve patient safety.",
+        "source_link": "https://example.com/ai-nursing-prioritization",
+        "status": "Pending Review"
+    },
+    {
+        "employee_name": "Alex Morgan",
+        "department": "Cybersecurity",
+        "category": "Data Privacy",
+        "news_title": "Hospitals Increase Focus on Patient Data Protection",
+        "summary": "Healthcare organizations are improving security practices to protect electronic health records and sensitive patient information.",
+        "why_it_matters": "Strong cybersecurity is important because healthcare systems store private patient data and are often targets for cyberattacks.",
+        "source_link": "https://example.com/healthcare-cybersecurity",
+        "status": "Approved"
+    },
+    {
+        "employee_name": "Jordan Lee",
+        "department": "Digital Health",
+        "category": "Telehealth",
+        "news_title": "Telehealth Platforms Add Remote Monitoring Features",
+        "summary": "New telehealth tools allow patients to share basic health data with providers between visits.",
+        "why_it_matters": "Remote monitoring can help providers follow patient progress earlier and may reduce unnecessary in-person visits.",
+        "source_link": "https://example.com/telehealth-remote-monitoring",
+        "status": "Featured"
+    },
+    {
+        "employee_name": "Maya Chen",
+        "department": "Innovation Team",
+        "category": "Wearable Health Tech",
+        "news_title": "Smart Wristbands Support Patient Monitoring",
+        "summary": "New wearable devices can help care teams monitor basic health signals remotely.",
+        "why_it_matters": "This may help hospitals identify patient changes earlier and support follow-up care.",
+        "source_link": "https://example.com/wearable-health-monitoring",
+        "status": "Pending Review"
+    }
+]
